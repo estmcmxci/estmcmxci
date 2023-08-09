@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @estmcmcxci (Marcus Martínez)
-- 👀 I’m interested in ... (Music, community, one of a kind experiences) 
-- 🌱 I’m currently learning ... (how to navigate and contribute on Web3)
-- 💞️ I’m looking to collaborate on ? (ENS DAO)
+- 👋 Hi, I’m marcus @estmcmcxci 
+- 🌀 Writing and research @ ensdao 
 - 📫 How to reach me ... (m@oakgroup.co)
 
 <!---
