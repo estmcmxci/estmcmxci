@@ -1,5 +1,6 @@
 - 👋 Hi, I’m marcus @estmcmcxci 
-- 🌀 Writing and research @ ensdao 
+- 🌀 Writing and research @ ensdao
+- ⚠️ Buidl @ neume
 - 📫 How to reach me ... (m@oakgroup.co)
 
 <!---
