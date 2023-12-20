@@ -1,6 +1,6 @@
 - 👋 Hi, I’m marcus @estmcmcxci 
-- 🌀 Writing and research @ ensdao
-- ⚠️ Buidl @ neume
+- 🌀 meta-gov @ ensdao
+- ⚠️ Buidl @ ær
 - 📫 How to reach me ... (m@oakgroup.co)
 
 <!---
