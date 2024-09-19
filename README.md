@@ -1,6 +1,5 @@
 - 👋 Say hello @estmcmcxci 
 - 🌀 meta-gov @ ensdao
-- ⚠️ Buidl @ ær
 - 📫 How to reach me ... (m@oakgroup.co)
 
 <!---
