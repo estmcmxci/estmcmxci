@@ -1,6 +1,4 @@
-- 👋 Say hello @estmcmcxci 
-- 🌀 meta-gov @ ensdao
-- 📫 How to reach me ... (m@oakgroup.co)
+⚠️ UNDERCONSTRUCTION ⚠️
 
 <!---
 estmcmcxci/estmcmcxci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
