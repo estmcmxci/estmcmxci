@@ -1,10 +1,7 @@
 ![Let us build](assets/let-us-build.png)
 
-I work across software, writing, and media. I build products that reveal the structures hidden within systems and render them into usable form.
+I work across software, writing, and media. I build products that reveal the structures hidden within systems and render them into usable form. I believe this work sits upstream of capital formation, and I place bets based on the insights it produces.
 
-I believe this work sits upstream of capital formation, and I place bets based on the insights it produces.
-
-Selected code, research and contributions below.
 
 ### DNSSEC verification
 
