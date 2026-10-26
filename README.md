@@ -15,6 +15,14 @@ Executed an IPO basis trade pairing brokered equity with short perpetual futures
 
 [Research harness](https://github.com/estmcmxci/spcx-harness) · [Trade write-up](https://estmcmxci.co/writing/spcx/)
 
+### Prediction-market research
+
+Authored *Reputation-Weighted Prediction Markets Under Wealth Heterogeneity and Heavy Tails*, testing through simulation how forecasting accuracy and wealth affect aggregate predictions.
+
+Working paper · Émile Marcel Agustín · Posted on SSRN, March 2026.
+
+[Paper](https://ssrn.com/abstract=6264878)
+
 ### ENSv2 developer tooling
 
 Built a CLI plugin for registering names, configuring resolvers and linking agent identities through MetaMask Agent Wallet. Provisioning resumes after interruption and checks onchain state before repeating a transaction. Sepolia only.
